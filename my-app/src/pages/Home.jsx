@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Navbar from '../components/Navbar';
 import Card from '../components/Card';
 import Footer from '../components/Footer';
-//this is Home Page 
+
 const Home = () => {
   const [search, setSearch] = useState('');
   const [foodCat, setFoodCat] = useState([]);
