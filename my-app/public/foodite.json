@@ -1,0 +1,65 @@
+[
+  {
+    "categoryName": "Dessert",
+    "name": "Banoffee Pie",
+    "img": "https://img.freepik.com/free-photo/flat-lay-cake-plate-with-chocolate-sauce-pine-cone_23-2148579245.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 320rs", "Half - 180rs"],
+    "description": "A delicious pie made with bananas, cream, and toffee."
+  },
+  {
+    "categoryName": "Dessert",
+    "name": "Panna Cotta",
+    "img": "https://img.freepik.com/free-photo/rice-pudding-with-frozen-blueberries-raspberries-white-bowl_114579-7163.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 300rs", "Half - 170rs"],
+    "description": "Creamy Italian dessert topped with berry compote."
+  },
+  {
+    "categoryName": "Dessert",
+    "name": "Lemon Tart",
+    "img": "https://img.freepik.com/free-photo/homemade-newyork-cheesecake-with-lemon-mint-healthy-organic-dessert-top-view_114579-9384.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 280rs", "Half - 160rs"],
+    "description": "Tangy lemon tart with a buttery crust."
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Chicken Alfredo",
+    "img": "https://img.freepik.com/free-photo/farfalle-with-chicken-mushroom-garnished-with-grated-parmesan_140725-240.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 350rs", "Half - 200rs"],
+    "description": "Pasta in a creamy Alfredo sauce with grilled chicken."
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Lamb Chops",
+    "img": "https://img.freepik.com/free-photo/chicken-tabacca-with-rosemary-leaves_114579-2135.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 500rs", "Half - 280rs"],
+    "description": "Juicy lamb chops served with mint sauce and vegetables."
+  },
+  {
+    "categoryName": "Main Course",
+    "name": "Veggie Burger",
+    "img": "https://img.freepik.com/free-photo/front-view-vegetarian-burger-counter-with-tomatoes_23-2148784525.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 250rs", "Half - 140rs"],
+    "description": "A hearty veggie burger with lettuce, tomato, and avocado."
+  },
+  {
+    "categoryName": "Appetizer",
+    "name": "Caprese Salad",
+    "img": "https://img.freepik.com/free-photo/classic-greek-salad-fresh-vegetables-cucumber-tomato-sweet-pepper-lettuce-red-onion-feta-cheese-olives-with-olive-oil-healthy-food-top-view_1150-44957.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 220rs", "Half - 120rs"],
+    "description": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze."
+  },
+  {
+    "categoryName": "Appetizer",
+    "name": "Chicken Wings",
+    "img": "https://img.freepik.com/free-photo/fresh-buffalo-chicken-wings-with-savory-dip-appetizer-generative-ai_188544-8118.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 280rs", "Half - 160rs"],
+    "description": "Spicy chicken wings served with blue cheese dressing."
+  },
+  {
+    "categoryName": "Appetizer",
+    "name": "Hummus with Pita",
+    "img": "https://img.freepik.com/free-photo/top-view-nacho-chips-with-hummus-ketchup_23-2148562792.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_user",
+    "options": ["Full - 180rs", "Half - 100rs"],
+    "description": "Creamy hummus served with warm pita bread."
+  }
+]
